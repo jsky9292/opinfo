@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import authRoutes from './routes/auth.js';
+import shopRoutes from './routes/shops.js';
 import { connectDB } from './config/db.js';
 
 dotenv.config();
@@ -19,6 +20,7 @@ connectDB();
 
 // 라우트
 app.use('/api/auth', authRoutes);
+app.use('/api/shops', shopRoutes);
 
 // Health check
 app.get('/api/health', (req, res) => {
