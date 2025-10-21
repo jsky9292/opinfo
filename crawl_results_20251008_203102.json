@@ -1,0 +1,200 @@
+{
+  "timestamp": "2025-10-08T20:29:28.902785",
+  "login_success": false,
+  "categories": [
+    {
+      "text": "대전/충청",
+      "url": "https://dkxm8.com/?area=%EB%8C%80%EC%A0%84%2F%EC%B6%A9%EC%B2%AD",
+      "selector": "nav a"
+    },
+    {
+      "text": "부산/경남",
+      "url": "https://dkxm8.com/?area=%EB%B6%80%EC%82%B0%2F%EA%B2%BD%EB%82%A8",
+      "selector": "nav a"
+    },
+    {
+      "text": "서울/강남",
+      "url": "https://dkxm8.com/?area=%EC%84%9C%EC%9A%B8%2F%EA%B0%95%EB%82%A8",
+      "selector": "nav a"
+    },
+    {
+      "text": "인천/경기",
+      "url": "https://dkxm8.com/?area=%EC%9D%B8%EC%B2%9C%2F%EA%B2%BD%EA%B8%B0",
+      "selector": "nav a"
+    },
+    {
+      "text": "대구/경북",
+      "url": "https://dkxm8.com/?area=%EB%8C%80%EA%B5%AC%2F%EA%B2%BD%EB%B6%81",
+      "selector": "nav a"
+    },
+    {
+      "text": "강원/제주/전라",
+      "url": "https://dkxm8.com/?area=%EA%B0%95%EC%9B%90%2F%EC%A0%9C%EC%A3%BC%2F%EC%A0%84%EB%9D%BC",
+      "selector": "nav a"
+    },
+    {
+      "text": "후기게시판",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=after",
+      "selector": "nav a"
+    },
+    {
+      "text": "커뮤니티",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=1000",
+      "selector": "nav a"
+    },
+    {
+      "text": "자료실",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=2000",
+      "selector": "nav a"
+    },
+    {
+      "text": "제휴 문의",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1400",
+      "selector": "nav a"
+    },
+    {
+      "text": "공지사항",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1100",
+      "selector": "ul.menu a"
+    },
+    {
+      "text": "이벤트",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1200",
+      "selector": "ul.menu a"
+    }
+  ],
+  "items": [
+    {
+      "number": 1,
+      "title": "[휴게텔] 1004",
+      "url": "",
+      "description": "천안시 두정 성정동",
+      "hours": "PM 01:00 ~ AM 04:00",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_amKLHUjd_a573475683f4791a5c17fa557067a6d72dfe8032.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 2,
+      "title": "[휴게텔] 초콜릿",
+      "url": "",
+      "description": "청주1등♥뉴페 지혜♥",
+      "hours": "Pm.12:00~Am.05:00",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_ktoZi12P_eb44a1235b72c830177a0c85a46e8b2440f23f19.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 3,
+      "title": "[오피스텔] 메이저",
+      "url": "",
+      "description": "즐달 캐릭터 발굴 천재 회사!",
+      "hours": "오전 11시 ~ 새벽 5시",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_nfCJ9Gsc_5c754c7a7222915c86b7cb12abc014d49fafd04b.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 1,
+      "title": "[휴게텔] 초콜릿",
+      "url": "",
+      "description": "청주1등♥뉴페 지혜♥",
+      "hours": "Pm.12:00~Am.05:00",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_ktoZi12P_eb44a1235b72c830177a0c85a46e8b2440f23f19.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 2,
+      "title": "[오피스텔] 미슐랭",
+      "url": "",
+      "description": "⤴️청주 맛집 1등 맛슐랭⤴️",
+      "hours": "✅매니져 상시 모집✅",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_TNtzeRD6_43f30cee06bc4f07fbab2fc62f352c15bf38699c.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 3,
+      "title": "[휴게텔] 미인도",
+      "url": "",
+      "description": "청주✅NF미니✅서비스하드",
+      "hours": "☀️청주터미널 부근☀️",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_aTCOSjPn_76684f1a02b204bc0ac4f512e6be3c77bc6da54f.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 1,
+      "title": "[안마] 여신출장",
+      "url": "",
+      "description": "부산/경남/울산",
+      "hours": "24시간",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_O1NzIipu_e2fc11e789aed60274372690602f4f6144c11290.jpg",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 2,
+      "title": "[룸/풀사롱] 매직미러한복풀",
+      "url": "",
+      "description": "✨❣️서면 연산 해운대❣️✨",
+      "hours": "PM6:00~AM6:00",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_dWzqv4cE_0b9d0438c450f094928753d4f0125987a11111a2.jpg",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 3,
+      "title": "[건마] 해운대퀄리티",
+      "url": "",
+      "description": "부산 해운대",
+      "hours": "24시간",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_B6NXh1aj_62adbd8f3029182b9e51c72f527d40842c54b5b3.jpg",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 1,
+      "title": "[룸/풀사롱] 강남베리앤굿",
+      "url": "",
+      "description": "서울 강남",
+      "hours": "PM 18:00 ~ AM 06:00",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_Q9VT6Yn8_93b7daa6088bf3d18d0d824b1df8488b5c461242.gif",
+      "detail_images": [],
+      "category": "서울/강남"
+    },
+    {
+      "number": 2,
+      "title": "[룸/풀사롱] 매직미러풀싸롱",
+      "url": "",
+      "description": "❤️강남 야구장❤매직미러 풀❤",
+      "hours": "❤️PM18:00 ~AM06:00❤",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_731lVfRP_e8d0911c8fed9f479515c409665482dd60c0ad3a.jpg",
+      "detail_images": [],
+      "category": "서울/강남"
+    },
+    {
+      "number": 3,
+      "title": "[룸/풀사롱] 강남미러풀싸롱",
+      "url": "",
+      "description": "✡️매직미러✡️한소희실장✡️",
+      "hours": "24시✡️010-9755-4905",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_soKhj0i1_af9bcca38dfda0a81230e510e67654b560ed6571.jpg",
+      "detail_images": [],
+      "category": "서울/강남"
+    }
+  ]
+}

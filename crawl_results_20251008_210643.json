@@ -1,0 +1,374 @@
+{
+  "timestamp": "2025-10-08T21:04:22.996872",
+  "login_success": true,
+  "categories": [
+    {
+      "text": "대전/충청",
+      "url": "https://dkxm8.com/?area=%EB%8C%80%EC%A0%84%2F%EC%B6%A9%EC%B2%AD",
+      "selector": "nav a"
+    },
+    {
+      "text": "부산/경남",
+      "url": "https://dkxm8.com/?area=%EB%B6%80%EC%82%B0%2F%EA%B2%BD%EB%82%A8",
+      "selector": "nav a"
+    },
+    {
+      "text": "서울/강남",
+      "url": "https://dkxm8.com/?area=%EC%84%9C%EC%9A%B8%2F%EA%B0%95%EB%82%A8",
+      "selector": "nav a"
+    },
+    {
+      "text": "인천/경기",
+      "url": "https://dkxm8.com/?area=%EC%9D%B8%EC%B2%9C%2F%EA%B2%BD%EA%B8%B0",
+      "selector": "nav a"
+    },
+    {
+      "text": "대구/경북",
+      "url": "https://dkxm8.com/?area=%EB%8C%80%EA%B5%AC%2F%EA%B2%BD%EB%B6%81",
+      "selector": "nav a"
+    },
+    {
+      "text": "강원/제주/전라",
+      "url": "https://dkxm8.com/?area=%EA%B0%95%EC%9B%90%2F%EC%A0%9C%EC%A3%BC%2F%EC%A0%84%EB%9D%BC",
+      "selector": "nav a"
+    },
+    {
+      "text": "후기게시판",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=after",
+      "selector": "nav a"
+    },
+    {
+      "text": "커뮤니티",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=1000",
+      "selector": "nav a"
+    },
+    {
+      "text": "자료실",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=2000",
+      "selector": "nav a"
+    },
+    {
+      "text": "제휴 문의",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1400",
+      "selector": "nav a"
+    },
+    {
+      "text": "공지사항",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1100",
+      "selector": "ul.menu a"
+    },
+    {
+      "text": "이벤트",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1200",
+      "selector": "ul.menu a"
+    }
+  ],
+  "items": [
+    {
+      "number": 1,
+      "title": "[오피스텔] 유앤미",
+      "url": "https://dkxm8.com/profile_popup.php?idx=648446&gubun=1",
+      "description": "♻️♻️유성구 봉명동♻️♻️",
+      "hours": "⤴️⤴️12:00~04:00⤴️⤴️",
+      "phone": "⭐⭐010-8296-4961⭐⭐",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_yzS4TG90_0619b3361ae6c36f56862854abb8ea5e4499c4be.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2503/944d4302044f6afbea4dad1016fd5f77_1742675457_8122.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438528_2281.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438556_214.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438572_7279.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438592_9059.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438608_453.gif",
+        "https://dkxm8.com/data/editor/2501/8c1ab999e94b9a193871eb1bc86f2984_1736166887_3571.gif",
+        "https://dkxm8.com/data/editor/2510/df22d7aa221b6fa0562393e07608ca8c_1759562095_5589.gif",
+        "https://dkxm8.com/data/editor/2509/e1fdc31a04a776d3280e74f58e9babfa_1758308368_6784.gif",
+        "https://dkxm8.com/data/editor/2501/8c1ab999e94b9a193871eb1bc86f2984_1736166907_3032.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438866_5587.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438875_7171.gif",
+        "https://dkxm8.com/data/editor/2506/aaec6161dca3209543bfb26b5262ca2a_1750960320_778.gif",
+        "https://dkxm8.com/data/editor/2509/93520028db0a20b842c63676eabe411c_1758221361_0502.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438896_6095.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731439362_8793.gif",
+        "https://dkxm8.com/data/editor/2508/407e510af0cb1ffbd1c4bfb64cccbd92_1756235740_2159.gif",
+        "https://dkxm8.com/data/editor/2508/a6c3a6237bd9d24700f3e4dd6422846e_1756574575_4699.gif",
+        "https://dkxm8.com/data/editor/2504/bc8f98c5e74771d5b362bb3f1a529f6e_1745893658_7606.gif",
+        "https://dkxm8.com/data/editor/2506/b7b2a2ade29f6d5afe61f44d13e60619_1750872030_9761.gif",
+        "https://dkxm8.com/data/editor/2504/bc8f98c5e74771d5b362bb3f1a529f6e_1745893658_0265.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438907_0464.gif",
+        "https://dkxm8.com/data/editor/2510/13c2c1b6eec3aec1fc1a7cdca0172596_1759258231_5167.gif",
+        "https://dkxm8.com/data/editor/2507/88b0138ea6f7cbb3d5fd8f6783fda4c8_1752517834_8321.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438913_6183.gif",
+        "https://dkxm8.com/data/editor/2506/b7b2a2ade29f6d5afe61f44d13e60619_1750872042_6428.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438918_9082.gif",
+        "https://dkxm8.com/data/editor/2508/4325c02441b05e4ddfc227f9ca643e0c_1755803341_1724.gif",
+        "https://dkxm8.com/data/editor/2505/cbaa714ce5c1dd0b16c6e89856a027d5_1746246679_1666.gif",
+        "https://dkxm8.com/data/editor/2508/aa4125ddd9c310a51f647a0e7ab1a2e6_1755108005_8128.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438924_5344.gif",
+        "https://dkxm8.com/data/editor/2501/88c7fc3eebcd96d82184d2847742c774_1737786706_1018.gif",
+        "https://dkxm8.com/data/editor/2505/9a200a98b229d062d6eb1c7391340e5a_1747970533_388.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438950_129.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438958_1797.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438962_8946.gif",
+        "https://dkxm8.com/data/editor/2412/6592a54df47adbc7c621742aa47b468b_1735064546_4987.gif",
+        "https://dkxm8.com/data/editor/2508/e99a866913ec69fba80c6c5b191e27c2_1755198081_3223.gif",
+        "https://dkxm8.com/data/editor/2506/391a5358990732ac585cc5b11ab1e2a8_1749927553_2641.gif",
+        "https://dkxm8.com/data/editor/2508/aa4125ddd9c310a51f647a0e7ab1a2e6_1755108035_4579.gif",
+        "https://dkxm8.com/data/editor/2506/391a5358990732ac585cc5b11ab1e2a8_1749927553_8825.gif",
+        "https://dkxm8.com/data/editor/2503/40e30623705d25fa9d0cd5bff1098c70_1740887536_121.gif",
+        "https://dkxm8.com/data/editor/2503/e2a5abc63df8ab99d95bdd1f137b2d81_1741025251_4818.gif",
+        "https://dkxm8.com/data/editor/2504/6829cab9972844d7e0f0a0db2cae1de9_1745484791_9252.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438973_0309.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438989_8228.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438996_1887.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731438999_0096.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731439008_1581.gif",
+        "https://dkxm8.com/data/editor/2412/1203d2239d23e7413efcdec9121e7510_1734723295_4709.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731439015_1596.gif",
+        "https://dkxm8.com/data/editor/2504/2a0a231c36c46dfb80caeeade6ae8768_1745261869_6786.gif",
+        "https://dkxm8.com/data/editor/2501/50357a883a689138fb35f70c8e5564a8_1737741841_3934.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731439021_4739.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731439043_2082.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731439048_0056.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731439053_4713.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731439056_6865.gif",
+        "https://dkxm8.com/data/editor/2505/e67ab8e3042cb432f9a2301210df3e56_1746475621_5088.gif",
+        "https://dkxm8.com/data/editor/2411/aad6d60a7a02f87202f1c062ec935189_1731440033_2798.gif"
+      ],
+      "category": "메인페이지"
+    },
+    {
+      "number": 2,
+      "title": "[유흥주점] 안석구실장",
+      "url": "https://dkxm8.com/profile_popup.php?idx=648437&gubun=1",
+      "description": "⛔➿✅✡️호텔 정통룸✡️✅➿⛔",
+      "hours": "✡️✡️24시간✡️✡️",
+      "phone": "010-7591-5950",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_3VGMiexm_fd87e6c5d4da572b29b491d87c627dd314458004.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2411/a211610702baa1b6952d65a79693ee44_1731536411_87.gif",
+        "https://dkxm8.com/data/editor/2411/a211610702baa1b6952d65a79693ee44_1731536416_4132.gif",
+        "https://dkxm8.com/data/editor/2411/a211610702baa1b6952d65a79693ee44_1731536419_5295.gif",
+        "https://dkxm8.com/data/editor/2411/7384e1e46ca38fcab9c746d579f874ca_1732172068_5676.gif",
+        "https://dkxm8.com/data/editor/2411/a211610702baa1b6952d65a79693ee44_1731536424_1869.gif",
+        "https://dkxm8.com/data/editor/2411/a211610702baa1b6952d65a79693ee44_1731536426_2643.gif",
+        "https://dkxm8.com/data/editor/2411/a211610702baa1b6952d65a79693ee44_1731536427_1291.gif"
+      ],
+      "category": "메인페이지"
+    },
+    {
+      "number": 3,
+      "title": "[건마] 후궁",
+      "url": "https://dkxm8.com/profile_popup.php?idx=1054093&gubun=1",
+      "description": "❤️NF민영❤️극하드올탈❤️",
+      "hours": "⭐️12:00~05:00⭐️",
+      "phone": "⭐010-3948-5477⭐",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_qOBMyShv_c46f92dc4e01ba8f74652af55327f7745b14dcf7.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2508/3673a49fc888e33fd7b42f91a2189b1c_1755447958_5306.gif",
+        "https://dkxm8.com/data/editor/2509/a23d28c5f1ab2effd9bf7636b59f8d8d_1757668086_2437.gif",
+        "https://dkxm8.com/data/editor/2508/3673a49fc888e33fd7b42f91a2189b1c_1755448014_6418.gif",
+        "https://dkxm8.com/data/editor/2508/3673a49fc888e33fd7b42f91a2189b1c_1755448016_4138.gif",
+        "https://dkxm8.com/data/editor/2509/a23d28c5f1ab2effd9bf7636b59f8d8d_1757668091_1292.jpg",
+        "https://dkxm8.com/data/editor/2508/3673a49fc888e33fd7b42f91a2189b1c_1755448016_7662.gif",
+        "https://dkxm8.com/data/editor/2508/e0b167c560a0091a3db96a8f606c7f9a_1756131938_977.jpg",
+        "https://dkxm8.com/data/editor/2509/7d76d5528e5d3105ac60503be3269b5b_1759112582_7141.jpg",
+        "https://dkxm8.com/data/editor/2508/3673a49fc888e33fd7b42f91a2189b1c_1755448046_2895.jpg",
+        "https://dkxm8.com/data/editor/2508/b8498d23f48e4abc0e1518c767c543cb_1756467652_6753.jpg",
+        "https://dkxm8.com/data/editor/2508/3673a49fc888e33fd7b42f91a2189b1c_1755448074_4375.gif",
+        "https://dkxm8.com/data/editor/2509/a23d28c5f1ab2effd9bf7636b59f8d8d_1757668127_4742.jpg"
+      ],
+      "category": "메인페이지"
+    },
+    {
+      "number": 1,
+      "title": "[오피스텔] 메이저",
+      "url": "https://dkxm8.com/profile_popup.php?idx=648704&gubun=1",
+      "description": "즐달 캐릭터 발굴 천재 회사!",
+      "hours": "오전 11시 ~ 새벽 5시",
+      "phone": "010-8412-8475",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_nfCJ9Gsc_5c754c7a7222915c86b7cb12abc014d49fafd04b.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2411/8328b64f8de51e2ee65cad2ef5e09b29_1731575699_734.gif",
+        "https://dkxm8.com/data/editor/2411/8328b64f8de51e2ee65cad2ef5e09b29_1731575702_4254.gif",
+        "https://dkxm8.com/data/editor/2411/8328b64f8de51e2ee65cad2ef5e09b29_1731575702_8972.gif",
+        "https://dkxm8.com/data/editor/2411/8328b64f8de51e2ee65cad2ef5e09b29_1731575734_5257.gif",
+        "https://dkxm8.com/data/editor/2411/8328b64f8de51e2ee65cad2ef5e09b29_1731575736_4612.gif",
+        "https://dkxm8.com/data/editor/2411/8328b64f8de51e2ee65cad2ef5e09b29_1731575737_9056.gif",
+        "https://dkxm8.com/data/editor/2411/8328b64f8de51e2ee65cad2ef5e09b29_1731575738_2785.gif"
+      ],
+      "category": "대전/충청"
+    },
+    {
+      "number": 2,
+      "title": "[휴게텔] 러브미",
+      "url": "https://dkxm8.com/profile_popup.php?idx=648338&gubun=1",
+      "description": "✨전국 1등✨베트남✨태국✨",
+      "hours": "PM 12:00 ~ AM 04:00",
+      "phone": "010-5670-6198",
+      "thumbnail": "https://dkxm8.com/data/file/main/2699961636_hkMNBZIW_8f33f3241f8021685eb4c4f3658cc39320b90bd3.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 3,
+      "title": "[건마] 포엠",
+      "url": "https://dkxm8.com/profile_popup.php?idx=650837&gubun=1",
+      "description": "✈️압도적인 사이즈 ✈️",
+      "hours": "❣️12:00~03:00❣️",
+      "phone": "❤️010-3626-7975❤️",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_Fx0LQC8n_45b712437ab9b260800753f7866a7e29122af161.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2411/5b6e8dffd54ece9de3fa9c0ebab68fe1_1731467671_5028.gif",
+        "https://dkxm8.com/data/editor/2411/5b6e8dffd54ece9de3fa9c0ebab68fe1_1731467864_5287.gif",
+        "https://dkxm8.com/data/editor/2411/5b6e8dffd54ece9de3fa9c0ebab68fe1_1731467941_4892.gif",
+        "https://dkxm8.com/data/editor/2411/5b6e8dffd54ece9de3fa9c0ebab68fe1_1731467969_6682.gif",
+        "https://dkxm8.com/data/editor/2509/16c50e27e50af01a704a898e3b0e735d_1758500337_8234.jpg",
+        "https://dkxm8.com/data/editor/2510/27de0d29472487949a0452a4a9293a73_1759885847_3425.jpg",
+        "https://dkxm8.com/data/editor/2509/16c50e27e50af01a704a898e3b0e735d_1758500647_9276.jpg",
+        "https://dkxm8.com/data/editor/2509/6d6281db2d8d6b184a0c0fe1e53222ef_1758156422_2633.jpg",
+        "https://dkxm8.com/data/editor/2506/474f7b28873a07537f837042ce3f93b7_1749433262_993.jpg",
+        "https://dkxm8.com/data/editor/2505/53acd0f16d2f3bae18b90bb98da4e5d3_1746545388_5293.jpg",
+        "https://dkxm8.com/data/editor/2411/5b6e8dffd54ece9de3fa9c0ebab68fe1_1731468049_1127.jpg",
+        "https://dkxm8.com/data/editor/2411/5b6e8dffd54ece9de3fa9c0ebab68fe1_1731468100_394.jpg",
+        "https://dkxm8.com/data/editor/2505/53acd0f16d2f3bae18b90bb98da4e5d3_1746545217_4421.jpg",
+        "https://dkxm8.com/data/editor/2411/5b6e8dffd54ece9de3fa9c0ebab68fe1_1731468062_6917.jpg",
+        "https://dkxm8.com/data/editor/2505/53acd0f16d2f3bae18b90bb98da4e5d3_1746545253_6791.jpg"
+      ],
+      "category": "대전/충청"
+    },
+    {
+      "number": 1,
+      "title": "[안마] 스시녀홈타이",
+      "url": "https://dkxm8.com/profile_popup.php?idx=1103335&gubun=1",
+      "description": "부산전지역",
+      "hours": "24시간",
+      "phone": "010-2996-4883",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_Ux2AGtwm_abbf025ec6828b8a162654756fcf0afba744cb48.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664784_5861.gif",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664788_8284.gif",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664789_9452.gif",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664809_4911.gif",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664791_4438.jpg",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664793_5792.jpg",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664795_4364.jpg",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664797_6991.jpg",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664799_6792.jpg",
+        "https://dkxm8.com/data/editor/2508/92067e6fa5524008ea418331e29052af_1754664804_1601.gif"
+      ],
+      "category": "부산/경남"
+    },
+    {
+      "number": 2,
+      "title": "[룸/풀사롱] 울산고구려",
+      "url": "https://dkxm8.com/profile_popup.php?idx=1296188&gubun=1",
+      "description": "울산 삼산동 전자랜드 부근",
+      "hours": "365일 24시간 연중무휴",
+      "phone": "01083573847",
+      "thumbnail": "https://dkxm8.com/data/file/main/1502832065_HMqdtsIa_1201d1b47e8ec056265d0d6a180d6d7755f0d0ea.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2507/6444c18f4b581f8862a8140996764356_1752663148_3978.gif",
+        "https://dkxm8.com/data/editor/2507/2dbc79a1bf9eb503071d6bf2d4ee01d4_1751434662_0443.gif",
+        "https://dkxm8.com/data/editor/2507/2dbc79a1bf9eb503071d6bf2d4ee01d4_1751434664_4526.gif",
+        "https://dkxm8.com/data/editor/2507/2dbc79a1bf9eb503071d6bf2d4ee01d4_1751434667_6182.gif",
+        "https://dkxm8.com/data/editor/2507/2dbc79a1bf9eb503071d6bf2d4ee01d4_1751434670_523.gif",
+        "https://dkxm8.com/data/editor/2507/2dbc79a1bf9eb503071d6bf2d4ee01d4_1751434673_8421.gif",
+        "https://dkxm8.com/data/editor/2507/2dbc79a1bf9eb503071d6bf2d4ee01d4_1751434677_2126.gif",
+        "https://dkxm8.com/data/editor/2507/2dbc79a1bf9eb503071d6bf2d4ee01d4_1751434679_8495.gif",
+        "https://dkxm8.com/data/editor/2507/6444c18f4b581f8862a8140996764356_1752663168_1954.gif"
+      ],
+      "category": "부산/경남"
+    },
+    {
+      "number": 3,
+      "title": "[룸/풀사롱] 울산남대표",
+      "url": "https://dkxm8.com/profile_popup.php?idx=652754&gubun=1",
+      "description": "울산 삼산동",
+      "hours": "24시간",
+      "phone": "010-4411-6848",
+      "thumbnail": "https://dkxm8.com/data/file/main/2669311878_FPu1xwlG_4df7f0dff859d2fcdb8a816092ccb058422cb3f8.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106817_7187.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106822_1544.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106830_3329.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106834_0343.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106843_6218.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106845_4719.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106853_7211.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106857_641.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106864_1243.gif",
+        "https://dkxm8.com/data/editor/2509/eccc23ffe66f15649b4408102112de5a_1758106865_9839.gif"
+      ],
+      "category": "부산/경남"
+    },
+    {
+      "number": 1,
+      "title": "[룸/풀사롱] 강남미러풀싸롱",
+      "url": "https://dkxm8.com/profile_popup.php?idx=189823&gubun=1",
+      "description": "✡️매직미러✡️한소희실장✡️",
+      "hours": "24시✡️010-9755-4905",
+      "phone": "010-9755-4905",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_soKhj0i1_af9bcca38dfda0a81230e510e67654b560ed6571.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2509/dba062e3b0b84cc4cb1c5e31e0e49807_1757696089_016.gif",
+        "https://dkxm8.com/data/editor/2509/dba062e3b0b84cc4cb1c5e31e0e49807_1757696107_3938.jpg",
+        "https://dkxm8.com/data/editor/2509/dba062e3b0b84cc4cb1c5e31e0e49807_1757696242_1856.jpg",
+        "https://dkxm8.com/data/editor/2509/dba062e3b0b84cc4cb1c5e31e0e49807_1757696308_7295.gif",
+        "https://dkxm8.com/data/editor/2509/dba062e3b0b84cc4cb1c5e31e0e49807_1757696375_7147.gif",
+        "https://dkxm8.com/data/editor/2509/dba062e3b0b84cc4cb1c5e31e0e49807_1757696410_8104.gif",
+        "https://dkxm8.com/data/editor/2509/dba062e3b0b84cc4cb1c5e31e0e49807_1757696550_1034.jpg"
+      ],
+      "category": "서울/강남"
+    },
+    {
+      "number": 2,
+      "title": "[룸/풀사롱] 강남베리앤굿",
+      "url": "https://dkxm8.com/profile_popup.php?idx=778917&gubun=1",
+      "description": "서울 강남",
+      "hours": "PM 18:00 ~ AM 06:00",
+      "phone": "010-5939-1509",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_Q9VT6Yn8_93b7daa6088bf3d18d0d824b1df8488b5c461242.gif",
+      "detail_images": [],
+      "category": "서울/강남"
+    },
+    {
+      "number": 3,
+      "title": "[룸/풀사롱] 필독",
+      "url": "https://dkxm8.com/profile_popup.php?idx=648318&gubun=1",
+      "description": "❌ 한번만 ❌읽어주세요✅",
+      "hours": "하이퍼블릭",
+      "phone": "010-9567-5872",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_8jEqZw7p_53951239b23fa09f2a4f67fa898a64925ce06283.jpg",
+      "detail_images": [
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370807_6732.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370810_1563.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370812_8158.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370842_4343.gif",
+        "https://dkxm8.com/data/editor/2505/28bcb65b3a76a0f31895b2e9a6859cea_1747329169_5252.jpg",
+        "https://dkxm8.com/data/editor/2505/28bcb65b3a76a0f31895b2e9a6859cea_1747329170_3894.jpg",
+        "https://dkxm8.com/data/editor/2505/28bcb65b3a76a0f31895b2e9a6859cea_1747329171_9625.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370846_9655.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370896_4044.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370898_8361.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370928_5696.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732370965_9274.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371153_5051.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371194_2174.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371199_8296.gif",
+        "https://dkxm8.com/data/editor/2505/28bcb65b3a76a0f31895b2e9a6859cea_1747329276_5468.jpg",
+        "https://dkxm8.com/data/editor/2505/28bcb65b3a76a0f31895b2e9a6859cea_1747329349_7961.jpg",
+        "https://dkxm8.com/data/editor/2505/28bcb65b3a76a0f31895b2e9a6859cea_1747329352_1287.jpg",
+        "https://dkxm8.com/data/editor/2505/28bcb65b3a76a0f31895b2e9a6859cea_1747329354_3025.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371205_9937.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371264_5271.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371282_2727.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371284_923.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371578_4094.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371581_3549.jpg",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371599_7681.gif",
+        "https://dkxm8.com/data/editor/2411/d814d75be3cc2e451870dc0a284c4a39_1732371834_1771.jpg"
+      ],
+      "category": "서울/강남"
+    }
+  ]
+}

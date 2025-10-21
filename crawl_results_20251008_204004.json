@@ -1,0 +1,200 @@
+{
+  "timestamp": "2025-10-08T20:38:26.554404",
+  "login_success": false,
+  "categories": [
+    {
+      "text": "대전/충청",
+      "url": "https://dkxm8.com/?area=%EB%8C%80%EC%A0%84%2F%EC%B6%A9%EC%B2%AD",
+      "selector": "nav a"
+    },
+    {
+      "text": "부산/경남",
+      "url": "https://dkxm8.com/?area=%EB%B6%80%EC%82%B0%2F%EA%B2%BD%EB%82%A8",
+      "selector": "nav a"
+    },
+    {
+      "text": "서울/강남",
+      "url": "https://dkxm8.com/?area=%EC%84%9C%EC%9A%B8%2F%EA%B0%95%EB%82%A8",
+      "selector": "nav a"
+    },
+    {
+      "text": "인천/경기",
+      "url": "https://dkxm8.com/?area=%EC%9D%B8%EC%B2%9C%2F%EA%B2%BD%EA%B8%B0",
+      "selector": "nav a"
+    },
+    {
+      "text": "대구/경북",
+      "url": "https://dkxm8.com/?area=%EB%8C%80%EA%B5%AC%2F%EA%B2%BD%EB%B6%81",
+      "selector": "nav a"
+    },
+    {
+      "text": "강원/제주/전라",
+      "url": "https://dkxm8.com/?area=%EA%B0%95%EC%9B%90%2F%EC%A0%9C%EC%A3%BC%2F%EC%A0%84%EB%9D%BC",
+      "selector": "nav a"
+    },
+    {
+      "text": "후기게시판",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=after",
+      "selector": "nav a"
+    },
+    {
+      "text": "커뮤니티",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=1000",
+      "selector": "nav a"
+    },
+    {
+      "text": "자료실",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=2000",
+      "selector": "nav a"
+    },
+    {
+      "text": "제휴 문의",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1400",
+      "selector": "nav a"
+    },
+    {
+      "text": "공지사항",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1100",
+      "selector": "ul.menu a"
+    },
+    {
+      "text": "이벤트",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1200",
+      "selector": "ul.menu a"
+    }
+  ],
+  "items": [
+    {
+      "number": 1,
+      "title": "[안마] 알프스",
+      "url": "",
+      "description": "⛔유성1등 전통안마⛔하드코어⛔",
+      "hours": "✡️24시 정상영업 풀코스✡️",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_TfUBFhAC_f050f7a4c2e30ed7da97ace0f239cfc7e7f70e31.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 2,
+      "title": "[오피스텔] 판타지",
+      "url": "",
+      "description": "❤서구❤와꾸NO.1❤",
+      "hours": "AM 10:00 ~ AM 05:00",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_fbv3wNtj_9fe9204c61131f5d7f5a6a359e67abddd353c65e.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 3,
+      "title": "[휴게텔] 옹달샘",
+      "url": "",
+      "description": "클릭⭕아로마⭕NF베네수엘라⭕️",
+      "hours": "단체⭕️청주NO.1❤️ 풀옵션⭕️",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_8UqGeSaT_c985727b1c3f3b4e3f9d2a29158d11a64c7d1a1e.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 1,
+      "title": "[휴게텔] 미인도",
+      "url": "",
+      "description": "청주✅NF미니✅서비스하드",
+      "hours": "☀️청주터미널 부근☀️",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_aTCOSjPn_76684f1a02b204bc0ac4f512e6be3c77bc6da54f.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 2,
+      "title": "[건마] Feel",
+      "url": "",
+      "description": "⭐️ 강서동1인샵⭐핫해 핫해",
+      "hours": "✅ 매니져 항시 모집 최고대우✅",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_jbMunHKB_b4864e2d29aa4a69ca1cc440b6d63a7218ea042a.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 3,
+      "title": "[안마] 센스안마",
+      "url": "",
+      "description": "❤대전맛집❤일본 AV 시스템❤️",
+      "hours": "✅유성 전체1등 즐달보장✅",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_IByYJ2H9_9a9598b001594c68542894c3e195a570dd4f98f7.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 1,
+      "title": "[룸/풀사롱] 비쥬얼",
+      "url": "",
+      "description": "울산 남구 삼산동",
+      "hours": "24시간",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1332623111_DRQ8psYv_aa07b733a6033bb9df53aed25b3783c96fc731fc.jpg",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 2,
+      "title": "[룸/풀사롱] 룸연아실장",
+      "url": "",
+      "description": "울산 삼산동 전자랜드 부근",
+      "hours": "365일 연중무휴",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/2699961655_g231i7BA_dbb60b2dfdfd17ef2c748c31f9bddee540687e0d.jpg",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 3,
+      "title": "[룸/풀사롱] 퍼블릭ROOM",
+      "url": "",
+      "description": "울산 남구 삼산동",
+      "hours": "PM 07:30~ AM 03:00",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_ehrcRCbv_1ad15333491f27e334048db7035694a683aa0469.jpg",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 1,
+      "title": "[룸/풀사롱] 매직미러풀싸롱",
+      "url": "",
+      "description": "❤️강남 야구장❤매직미러 풀❤",
+      "hours": "❤️PM18:00 ~AM06:00❤",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_731lVfRP_e8d0911c8fed9f479515c409665482dd60c0ad3a.jpg",
+      "detail_images": [],
+      "category": "서울/강남"
+    },
+    {
+      "number": 2,
+      "title": "[룸/풀사롱] 강남베리앤굿",
+      "url": "",
+      "description": "서울 강남",
+      "hours": "PM 18:00 ~ AM 06:00",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_Q9VT6Yn8_93b7daa6088bf3d18d0d824b1df8488b5c461242.gif",
+      "detail_images": [],
+      "category": "서울/강남"
+    },
+    {
+      "number": 3,
+      "title": "[룸/풀사롱] 필독",
+      "url": "",
+      "description": "❌ 한번만 ❌읽어주세요✅",
+      "hours": "하이퍼블릭",
+      "phone": "로그인후 확인하세요.",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_8jEqZw7p_53951239b23fa09f2a4f67fa898a64925ce06283.jpg",
+      "detail_images": [],
+      "category": "서울/강남"
+    }
+  ]
+}

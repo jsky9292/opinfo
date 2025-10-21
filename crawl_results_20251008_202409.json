@@ -1,0 +1,200 @@
+{
+  "timestamp": "2025-10-08T20:21:26.920081",
+  "login_success": true,
+  "categories": [
+    {
+      "text": "대전/충청",
+      "url": "https://dkxm8.com/?area=%EB%8C%80%EC%A0%84%2F%EC%B6%A9%EC%B2%AD",
+      "selector": "nav a"
+    },
+    {
+      "text": "부산/경남",
+      "url": "https://dkxm8.com/?area=%EB%B6%80%EC%82%B0%2F%EA%B2%BD%EB%82%A8",
+      "selector": "nav a"
+    },
+    {
+      "text": "서울/강남",
+      "url": "https://dkxm8.com/?area=%EC%84%9C%EC%9A%B8%2F%EA%B0%95%EB%82%A8",
+      "selector": "nav a"
+    },
+    {
+      "text": "인천/경기",
+      "url": "https://dkxm8.com/?area=%EC%9D%B8%EC%B2%9C%2F%EA%B2%BD%EA%B8%B0",
+      "selector": "nav a"
+    },
+    {
+      "text": "대구/경북",
+      "url": "https://dkxm8.com/?area=%EB%8C%80%EA%B5%AC%2F%EA%B2%BD%EB%B6%81",
+      "selector": "nav a"
+    },
+    {
+      "text": "강원/제주/전라",
+      "url": "https://dkxm8.com/?area=%EA%B0%95%EC%9B%90%2F%EC%A0%9C%EC%A3%BC%2F%EC%A0%84%EB%9D%BC",
+      "selector": "nav a"
+    },
+    {
+      "text": "후기게시판",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=after",
+      "selector": "nav a"
+    },
+    {
+      "text": "커뮤니티",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=1000",
+      "selector": "nav a"
+    },
+    {
+      "text": "자료실",
+      "url": "https://dkxm8.com/bbs/group.php?gr_id=2000",
+      "selector": "nav a"
+    },
+    {
+      "text": "제휴 문의",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1400",
+      "selector": "nav a"
+    },
+    {
+      "text": "공지사항",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1100",
+      "selector": "ul.menu a"
+    },
+    {
+      "text": "이벤트",
+      "url": "https://dkxm8.com/bbs/board.php?bo_table=1200",
+      "selector": "ul.menu a"
+    }
+  ],
+  "items": [
+    {
+      "number": 1,
+      "title": "[건마] 포엠",
+      "url": "https://dkxm8.com/profile_popup.php?idx=650837&gubun=1",
+      "description": "✈️압도적인 사이즈 ✈️",
+      "hours": "❣️12:00~03:00❣️",
+      "phone": "❤️010-3626-7975❤️",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_Fx0LQC8n_45b712437ab9b260800753f7866a7e29122af161.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 2,
+      "title": "[안마] 센스안마",
+      "url": "https://dkxm8.com/profile_popup.php?idx=1056581&gubun=1",
+      "description": "❤대전맛집❤일본 AV 시스템❤️",
+      "hours": "✅유성 전체1등 즐달보장✅",
+      "phone": "010-5865-8461",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_IByYJ2H9_9a9598b001594c68542894c3e195a570dd4f98f7.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 3,
+      "title": "[휴게텔] 롤렉스",
+      "url": "https://dkxm8.com/profile_popup.php?idx=1147796&gubun=1",
+      "description": "❤️봉명동❤️와꾸족 드루왕❤️",
+      "hours": "❤️PM13:00~AM05:00❤️",
+      "phone": "❤️010-2133-9839❤️",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_vAe17d4T_a4c2ee5a7a8f7afafcfdeec346b2ee6ce44ba1ae.jpg",
+      "detail_images": [],
+      "category": "메인페이지"
+    },
+    {
+      "number": 1,
+      "title": "[건마] 밝혀줘",
+      "url": "https://dkxm8.com/profile_popup.php?idx=694890&gubun=1",
+      "description": "❤️7출❤️단체,개인드루와아",
+      "hours": "♥연중무휴 언제든 연락컴온♥",
+      "phone": "010-5939-9609",
+      "thumbnail": "https://dkxm8.com/data/file/main/2669311878_AjSzWc74_f08e09868703cc711ffc48660a59863c880664fa.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 2,
+      "title": "[건마] See,You",
+      "url": "https://dkxm8.com/profile_popup.php?idx=424825&gubun=1",
+      "description": "연휴엔❤️SEEYOU❤️",
+      "hours": "수)✨️12시부터~~마감까지✨️",
+      "phone": "010-8036-3121",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_BWkY4QtN_65918a1ca15f37f0491dfa08e329cdbd8ecbfc6c.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 3,
+      "title": "[유흥주점] 안석구실장",
+      "url": "https://dkxm8.com/profile_popup.php?idx=648437&gubun=1",
+      "description": "⛔➿✅✡️호텔 정통룸✡️✅➿⛔",
+      "hours": "✡️✡️24시간✡️✡️",
+      "phone": "010-7591-5950",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_3VGMiexm_fd87e6c5d4da572b29b491d87c627dd314458004.jpg",
+      "detail_images": [],
+      "category": "대전/충청"
+    },
+    {
+      "number": 1,
+      "title": "[오피스텔] 백마천국",
+      "url": "https://dkxm8.com/profile_popup.php?idx=648623&gubun=1",
+      "description": "부산 서면",
+      "hours": "PM 12:00 ~ AM 07:00",
+      "phone": "010-9330-9699",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_qUArB1ic_b1989196daa21b3394c4ea108ab1f7441c2a6a27.gif",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 2,
+      "title": "[룸/풀사롱] 1등은비실장",
+      "url": "https://dkxm8.com/profile_popup.php?idx=1259601&gubun=1",
+      "description": "울산 남구삼산동 현대백화점",
+      "hours": "24시간",
+      "phone": "010-8246-8073",
+      "thumbnail": "https://dkxm8.com/data/file/main/2669311878_Yp1VXgCr_64ad1528ae866de0d58ce7268c51e6469a237646.jpg",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 3,
+      "title": "[건마] 해운대퀄리티",
+      "url": "https://dkxm8.com/profile_popup.php?idx=374859&gubun=1",
+      "description": "부산 해운대",
+      "hours": "24시간",
+      "phone": "010-2790-8861",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_B6NXh1aj_62adbd8f3029182b9e51c72f527d40842c54b5b3.jpg",
+      "detail_images": [],
+      "category": "부산/경남"
+    },
+    {
+      "number": 1,
+      "title": "[룸/풀사롱] 강남베리앤굿",
+      "url": "https://dkxm8.com/profile_popup.php?idx=778917&gubun=1",
+      "description": "서울 강남",
+      "hours": "PM 18:00 ~ AM 06:00",
+      "phone": "010-5939-1509",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182871_Q9VT6Yn8_93b7daa6088bf3d18d0d824b1df8488b5c461242.gif",
+      "detail_images": [],
+      "category": "서울/강남"
+    },
+    {
+      "number": 2,
+      "title": "[룸/풀사롱] 매직미러풀싸롱",
+      "url": "https://dkxm8.com/profile_popup.php?idx=1041424&gubun=1",
+      "description": "❤️강남 야구장❤매직미러 풀❤",
+      "hours": "❤️PM18:00 ~AM06:00❤",
+      "phone": "❤️010-4885-3541❤️",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_731lVfRP_e8d0911c8fed9f479515c409665482dd60c0ad3a.jpg",
+      "detail_images": [],
+      "category": "서울/강남"
+    },
+    {
+      "number": 3,
+      "title": "[룸/풀사롱] 필독",
+      "url": "https://dkxm8.com/profile_popup.php?idx=648318&gubun=1",
+      "description": "❌ 한번만 ❌읽어주세요✅",
+      "hours": "하이퍼블릭",
+      "phone": "010-9567-5872",
+      "thumbnail": "https://dkxm8.com/data/file/main/1728182447_8jEqZw7p_53951239b23fa09f2a4f67fa898a64925ce06283.jpg",
+      "detail_images": [],
+      "category": "서울/강남"
+    }
+  ]
+}
